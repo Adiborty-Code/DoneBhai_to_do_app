@@ -51,7 +51,7 @@ DoneBhai/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/DoneBhai.git
+   git clone https://github.com/Adiborty-Code/DoneBhai_to_do_app.git
 2. Open index.html in your browser.
 3. Start adding tasks. Don’t ghost them like your responsibilities.
 
